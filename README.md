@@ -1,3 +1,2 @@
-# my_first_repository
-# my_first_repository
-# my_first_repository
+My first repository of my first task of my first Holberton School project! 
+
