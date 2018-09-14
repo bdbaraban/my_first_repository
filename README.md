@@ -1,3 +1,5 @@
-My first repository of my first task of my first Holberton School project! 
+My first repository of my first [Holberton School](https://www.holbertonschool.com/) project!
 
-Includes two separate branches of work.
+<p align="center">
+  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton logo">
+</p>  
