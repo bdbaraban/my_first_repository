@@ -1,5 +1,5 @@
 # 0x03. Git
-My first repository of my first Holberton School project! In this project, completed on my zero-day at Holberton School, I was introduced to Git and GitHub; specifically, how to create repositories, commit, push code, create and merge branches, pull updates, and work as a collaborator.
+My first repository of my first Holberton School project! In this project, completed on my zero-day at Holberton School, I was introduced to Git and GitHub; specifically, I started practicing creating repositories, commiting, pushing code, createing and merging branches, pulling updates, and working as a collaborator.
 
 ## Contents
 * `bash`: A directory containing the files `holberton`, `school` and `98`.
