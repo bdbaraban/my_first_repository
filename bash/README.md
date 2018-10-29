@@ -7,4 +7,4 @@ This directory contains three files uploaded for the following tasks:
 ## Contents;
 * `holberton`: A Bash script containing the command `echo "Holberton School is so cool"`
 * `school`: A Bash script containing the command `echo "The school is open!"`
-* ``98`: An empty file.
+* `98`: An empty file.
